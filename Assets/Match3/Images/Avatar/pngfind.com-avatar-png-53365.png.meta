@@ -1,0 +1,524 @@
+fileFormatVersion: 2
+guid: a1e8029aee96c594e84e53245c670a1a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1200212196886710423
+    second: pngfind.com-avatar-png-53365_0
+  - first:
+      213: 2358368686480491179
+    second: pngfind.com-avatar-png-53365_1
+  - first:
+      213: -625965487510141248
+    second: pngfind.com-avatar-png-53365_2
+  - first:
+      213: 9086750349424885817
+    second: pngfind.com-avatar-png-53365_3
+  - first:
+      213: 3035653994071926686
+    second: pngfind.com-avatar-png-53365_4
+  - first:
+      213: 6820735191695317401
+    second: pngfind.com-avatar-png-53365_5
+  - first:
+      213: -5740183338095274412
+    second: pngfind.com-avatar-png-53365_6
+  - first:
+      213: 6154111643417293309
+    second: pngfind.com-avatar-png-53365_7
+  - first:
+      213: 7669267049176127172
+    second: pngfind.com-avatar-png-53365_8
+  - first:
+      213: 7659469914121962461
+    second: pngfind.com-avatar-png-53365_9
+  - first:
+      213: -8095115302896672952
+    second: pngfind.com-avatar-png-53365_10
+  - first:
+      213: -3647539826948883236
+    second: pngfind.com-avatar-png-53365_11
+  - first:
+      213: -1326328593270967977
+    second: pngfind.com-avatar-png-53365_12
+  - first:
+      213: 6942996345779012359
+    second: pngfind.com-avatar-png-53365_13
+  - first:
+      213: -3579339375600960352
+    second: pngfind.com-avatar-png-53365_14
+  - first:
+      213: -5837086296409145995
+    second: pngfind.com-avatar-png-53365_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngfind.com-avatar-png-53365_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 643
+        width: 211
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798068252a208a010800000000000000
+      internalID: 1200212196886710423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-avatar-png-53365_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 748
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2031f33db9ab020800000000000000
+      internalID: 2358368686480491179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-avatar-png-53365_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 651
+        width: 207
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6cd43a4bf1057f0800000000000000
+      internalID: -625965487510141248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-avatar-png-53365_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 748
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93080249c4f9a1e70800000000000000
+      internalID: 9086750349424885817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-avatar-png-53365_4
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 641
+        width: 168
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9727a9593fc02a20800000000000000
+      internalID: 3035653994071926686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-avatar-png-53365_5
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 643
+        width: 157
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9995100e48e18ae50800000000000000
+      internalID: 6820735191695317401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-avatar-png-53365_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 734
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4561733baa5c650b0800000000000000
+      internalID: -5740183338095274412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-avatar-png-53365_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 734
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1bbfd0febc76550800000000000000
+      internalID: 6154111643417293309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-avatar-png-53365_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 334
+        width: 156
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c650c96fb5be6a60800000000000000
+      internalID: 7669267049176127172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-avatar-png-53365_9
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 329
+        width: 145
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd308072e47eb4a60800000000000000
+      internalID: 7659469914121962461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-avatar-png-53365_10
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 313
+        width: 244
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fd303958f58af80800000000000000
+      internalID: -8095115302896672952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-avatar-png-53365_11
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 339
+        width: 152
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc3f965ad5516dc0800000000000000
+      internalID: -3647539826948883236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-avatar-png-53365_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 147
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751f3aeeb2fe79de0800000000000000
+      internalID: -1326328593270967977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-avatar-png-53365_13
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 9
+        width: 165
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7034ef2146a7a5060800000000000000
+      internalID: 6942996345779012359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-avatar-png-53365_14
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 14
+        width: 146
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac7cb25dc1a35ec0800000000000000
+      internalID: -3579339375600960352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-avatar-png-53365_15
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 4
+        width: 195
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d7b3b80f08efea0800000000000000
+      internalID: -5837086296409145995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
